@@ -34,7 +34,7 @@ class OC_Theme {
 		$this->themeEntity = 'Servizo de sincronización de ficheiros do CIXUG';
 		$this->themeName = 'Servizo ownCloud';
 		$this->themeTitle = 'Servizo ownCloud';
-		$this->themeBaseUrl = 'http://cixug.es';
+		$this->themeBaseUrl = 'http://www.cixug.es';
 		$this->themeDocBaseUrl = 'https://doc.owncloud.org';
 		$this->themeSyncClientUrl = 'https://owncloud.org/install';
 		$this->themeSlogan = 'Servizo xestionado pola Oficina de Software Libre';
