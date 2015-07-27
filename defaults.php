@@ -34,10 +34,10 @@ class OC_Theme {
 		$this->themeEntity = 'Servizo de sincronización de ficheiros do CIXUG';
 		$this->themeName = 'Servizo ownCloud';
 		$this->themeTitle = 'Servizo ownCloud';
-		$this->themeBaseUrl = 'https://nube.cixug.es';
+		$this->themeBaseUrl = 'http://cixug.es';
 		$this->themeDocBaseUrl = 'https://doc.owncloud.org';
 		$this->themeSyncClientUrl = 'https://owncloud.org/install';
-		$this->themeSlogan = 'Servizo xestionado pola Oficina de Software Libre - CIXUG';
+		$this->themeSlogan = 'Servizo xestionado pola Oficina de Software Libre';
 		$this->themeMailHeaderColor = '#745bca';
 	}
 	/* nothing after this needs to be adjusted */
