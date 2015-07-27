@@ -31,13 +31,13 @@ class OC_Theme {
 
 	/* put your custom text in these variables */
 	function __construct() {
-		$this->themeEntity = 'Custom Cloud Co.';
-		$this->themeName = 'Custom Cloud';
-		$this->themeTitle = 'Custom Cloud';
-		$this->themeBaseUrl = 'https://owncloud.org';
+		$this->themeEntity = 'Servizo de sincronización de ficheiros do CIXUG';
+		$this->themeName = 'Servizo ownCloud';
+		$this->themeTitle = 'Servizo ownCloud';
+		$this->themeBaseUrl = 'https://nube.cixug.es';
 		$this->themeDocBaseUrl = 'https://doc.owncloud.org';
 		$this->themeSyncClientUrl = 'https://owncloud.org/install';
-		$this->themeSlogan = 'Your custom cloud, personalized for you!';
+		$this->themeSlogan = 'Servizo xestionado pola Oficina de Software Libre - CIXUG';
 		$this->themeMailHeaderColor = '#745bca';
 	}
 	/* nothing after this needs to be adjusted */
